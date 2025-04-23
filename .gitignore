@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Arquivo de secrets ###
+application-secrets.properties
+
+### Docker compose ###
+docker-compose.yml
