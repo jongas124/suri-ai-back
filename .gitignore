@@ -36,4 +36,7 @@ build/
 application-secrets.properties
 
 ### Docker compose ###
-docker-compose.yml
+compose.yaml
+
+### keys ###
+*.pem
